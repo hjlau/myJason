@@ -1,0 +1,104 @@
+{
+    "Hawker Stalls": [{
+            "name": "Pasir Pinji Air Tebu",
+            "imageUrl": "https://ibb.co/fHtHMhH",
+            "description": "Ais limau, ais pegaga , air kelapa",
+            "phone": "0175476883",
+            "adreess": "48, Jalan Queen, Pasir Penjih, 31650 Ipoh, Perak, Malaysia",
+            "previousWeekOpeningHours": "Monday 8:45AM - 6:15PM, Wednesday 8:00AM - 6:15PM, Thursday 8:00AM - 6:15PM, Friday 9:45AM - 6:15PM, Saturday 8:30AM - 6:15PM, Sunday 10:00AM - 6:15PM",
+            "fovourites": "3",
+            "recommends": "6",
+            "userReview": "吉子话梅冰 喝过翻寻味, 桔仔酸梅的确好饮，清凉解渴。"
+        }, {
+            "name": "SOON KEE",
+            "imageUrl": "https://ibb.co/qCRWcpH",
+            "description": "煮炒 Fried dishes with rice, noodles",
+            "phone": "0125129369",
+            "adreess": "新嘉喜茶室 400, Jalan Perak 4, 31900 Kampar, Perak, Malaysia",
+            "previousWeekOpeningHours": "",
+            "fovourites": "5",
+            "recommends": "4",
+            "userReview": "Always come here for lunch when I'm in Kampar. Nice food, very friendly service., 干炒河非常好吃！！！！！！！"
+        }, {
+            "name": "Galilee Fried Chicken",
+            "imageUrl": "https://ibb.co/HdM3fGK",
+            "description": "Fried chicken",
+            "phone": "0125084686",
+            "adreess": "221, Jalan Sultan, Pasir Penjih, 31650 Ipoh, Perak, Malaysia",
+            "previousWeekOpeningHours": "Wednesday 9:00AM - 7:00PM, Thursday 9:45AM - 7:15PM, Friday 8:15AM - 7:00PM, Saturday 10:00AM - 7:30PM, Sunday 9:00AM - 7:00PM",
+            "fovourites": "14",
+            "recommends": "17",
+            "userReview": "Very uniquely crispy fried chicken 👍, 老字号 同宝利炸鸡有得fight"
+        }, {
+            "name": "Hong Kee Mah Chee",
+            "imageUrl": "https://ibb.co/zbwWDz9",
+            "description": "mah chee , and peanut sauce麻芝 ，花生糊",
+            "phone": "0185703832",
+            "adreess": "No. 550 A, Jalan Queen, Pasir Pinji, Perak, Pasir Penjih, 31650 Ipoh, Perak, Malaysia",
+            "previousWeekOpeningHours": "Monday 12:00PM - 5:30PM, Tuesday 11:45AM - 5:30PM, Wednesday 2:15PM - 5:45PM",
+            "fovourites": "2",
+            "recommends": "3",
+            "userReview": "This is another stall that has been around for many years. Second generation selling, with nice seatings now if you want to eat at the stall itself.,  花生糊 某得顶👍"
+        }, {
+            "name": "Pat Che Yoon",
+            "imageUrl": "https://ibb.co/qCRWcpHhttps://ibb.co/F53VX14",
+            "description": "Cendol, jelly kuning",
+            "phone": "0124102108",
+            "adreess": "Jalan Bunga Raya, 31650 Ipoh, Perak, Malaysia",
+            "previousWeekOpeningHours": "Tuesday 11:45AM - 6:30PM, Wednesday 11:45AM - 5:15PM, Thursday 11:15AM - 5:00PM, Friday 11:30AM - 5:00PM, Sunday 10:15AM - 5:00PM",
+            "fovourites": "4",
+            "recommends": "5",
+            "userReview": "I have been eating this ais cendol for like forever. Of course, they have been in business for over 20 years!, One of the best ais cendol in ipoh, near 兵如港附近的大草场，price still remain cheap after so many years 👍, 红豆很香 椰糖更香"
+        }, {
+            "name": "Woong Kee 豆腐花",
+            "imageUrl": "https://ibb.co/p12ntBr",
+            "description": "Tau fu far, soya milk and black jelly. 汤丸 on Friday, Saturday and Sunday. ",
+            "phone": "0165104540",
+            "adreess": "48, Jalan Queen, Pasir Penjih, 31650 Ipoh, Perak, Malaysia",
+            "previousWeekOpeningHours": "Monday 4:45PM - 9:15PM, Tuesday 5:00PM - 9:30PM, Thursday 5:00PM - 9:15PM, Friday 4:00PM - 8:45PM, Sunday 4:00AM - 8:30PM",
+            "fovourites": "1",
+            "recommends": "2",
+            "userReview": "Our favourite tau fu far in the neighbourhood."
+        }, {
+            "name": "Ipoh GrassJelly 怡保仙草芋丸",
+            "imageUrl": "https://ibb.co/0Xh7Fx3",
+            "description": "Taiwanese Dessert Multiple Choice of Taro Ball With Base of Grassjelly",
+            "phone": "01111998913",
+            "adreess": "45, Taman Mayfair, 31650 Ipoh, Perak, Malaysia",
+            "previousWeekOpeningHours": "Thursday 5:00PM - 6:00PM, Friday 11:15AM - 6:00PM",
+            "fovourites": "1",
+            "recommends": "2",
+            "userReview": "The grass jelly is indeed very good. The portion for a bowl is enough for two person!, 火龙丸 高度推荐！ 超弹牙😋"
+        }, {
+            "name": "Azka Burger",
+            "imageUrl": "https://ibb.co/Q6qnyZ8",
+            "description": "Burger Ramly selera sedaap",
+            "phone": "01133502551",
+            "adreess": "38b, Persiaran Bunga Saroja 10, Taman Melor, 31650 Ipoh, Perak, Malaysia",
+            "previousWeekOpeningHours": "",
+            "fovourites": "1",
+            "recommends": "1",
+            "userReview": ""
+        }, {
+            "name": "民歡大塊面",
+            "imageUrl": "https://ibb.co/FX7nCRb",
+            "description": "Apam balik, 大塊面，花生糊",
+            "phone": "01160624524",
+            "adreess": "Jalan Bunga Raya, 31650 Ipoh, Perak, Malaysia",
+            "previousWeekOpeningHours": "",
+            "fovourites": "2",
+            "recommends": "3",
+            "userReview": ""
+        }, {
+            "name": "豪食阿三鱼头",
+            "imageUrl": "https://ibb.co/SdJwB6R",
+            "description": "Assam fish",
+            "phone": "0193394351",
+            "adreess": "1 A, Hala Pinji 1, Taman Hoover, 31650 Ipoh, Perak, Malaysia",
+            "previousWeekOpeningHours": "Monday 1:00PM - 9:00PM, Tuesday 4:15PM - 9:30PM, Thursday 12:15PM - 9:00PM, Friday 1:00PM - 8:45PM, Saturday 1:15PM - 9:15PM, Sunday 12:30PM - 8:00PM",
+            "fovourites": "3",
+            "recommends": "7",
+            "userReview": "A good place to tapau assam curry home 👍, 鱼头煲也有很多鱼肉，最重要 asam 好入味"
+        }
+    ]
+}
